@@ -1,8 +1,8 @@
 📊# Social-Media-Mini-Project
 
-📌 Project Overview
 <img width="1030" height="682" alt="Screenshot 2026-01-22 160335" src="https://github.com/user-attachments/assets/723a96c4-edd1-457f-bfce-0df8dc29c785" />
 
+📌 Project Overview
 This mini project focuses on analyzing social media engagement metrics across different platforms, content types, regions, and time periods. The goal is to understand user interaction patterns and measure content performance using key engagement indicators such as likes, comments, shares, and follower growth.
 
 This project is suitable for Tableau / Power BI / Excel / SQL practice and portfolio building.
@@ -78,6 +78,7 @@ This mini project provides valuable insights into social media performance and h
 Sheets
 
 1 <img width="1659" height="802" alt="Screenshot 2026-01-22 154339" src="https://github.com/user-attachments/assets/4dfd916e-36d0-428c-92a6-f6c9bc4c8dfa" />
+2 <img width="1647" height="805" alt="Screenshot 2026-01-22 154351" src="https://github.com/user-attachments/assets/d6f04bae-0cd6-4dc7-95de-d3d4f8364288" />
 3 <img width="1654" height="802" alt="Screenshot 2026-01-22 154405" src="https://github.com/user-attachments/assets/44970028-6060-41c8-a07a-d913130bae26" />
 4 <img width="1658" height="798" alt="Screenshot 2026-01-22 154418" src="https://github.com/user-attachments/assets/3113ddea-4730-483e-a9ed-eab4c474e106" />
 5 <img width="1663" height="796" alt="Screenshot 2026-01-22 154429" src="https://github.com/user-attachments/assets/c3543008-f6ac-4337-b13e-3267820dfbee" />
