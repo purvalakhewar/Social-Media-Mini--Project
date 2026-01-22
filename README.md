@@ -3,7 +3,8 @@
 <img width="1030" height="682" alt="Screenshot 2026-01-22 160335" src="https://github.com/user-attachments/assets/723a96c4-edd1-457f-bfce-0df8dc29c785" />
 
 
-📌 Project Overview
+📌 Project Overview  
+
 This mini project focuses on analyzing social media engagement metrics across different platforms, content types, regions, and time periods. The goal is to understand user interaction patterns and measure content performance using key engagement indicators such as likes, comments, shares, and follower growth.
 
 This project is suitable for Tableau / Power BI / Excel / SQL practice and portfolio building.
