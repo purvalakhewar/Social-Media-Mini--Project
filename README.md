@@ -2,6 +2,7 @@
 
 <img width="1030" height="682" alt="Screenshot 2026-01-22 160335" src="https://github.com/user-attachments/assets/723a96c4-edd1-457f-bfce-0df8dc29c785" />
 
+
 📌 Project Overview
 This mini project focuses on analyzing social media engagement metrics across different platforms, content types, regions, and time periods. The goal is to understand user interaction patterns and measure content performance using key engagement indicators such as likes, comments, shares, and follower growth.
 
@@ -71,9 +72,6 @@ Monthly Engagement Trends
 
 Followers vs Engagement Correlation
 
-🚀 Conclusion
-
-This mini project provides valuable insights into social media performance and helps build strong analytical and visualization skills. It is ideal for beginners looking to strengthen their data analytics portfolio.
 
 Sheets
 
@@ -98,7 +96,9 @@ Storytelling
 1 <img width="1652" height="802" alt="Screenshot 2026-01-22 154816" src="https://github.com/user-attachments/assets/7a79903d-d9b9-4e03-bdc9-a81041bf5c1f" />
 2 <img width="1640" height="782" alt="Screenshot 2026-01-22 154835" src="https://github.com/user-attachments/assets/f0c257e2-106a-43c5-81aa-2178db52651d" />
 
+🚀 Conclusion
 
+This mini project provides valuable insights into social media performance and helps build strong analytical and visualization skills. It is ideal for beginners looking to strengthen their data analytics portfolio.
 
 
 
