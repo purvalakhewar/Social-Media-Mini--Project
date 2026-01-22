@@ -1,4 +1,4 @@
-📊# Social-Media-Mini-Project
+📊# Social Media Mini Project
 
 <img width="1030" height="682" alt="Screenshot 2026-01-22 160335" src="https://github.com/user-attachments/assets/723a96c4-edd1-457f-bfce-0df8dc29c785" />
 
